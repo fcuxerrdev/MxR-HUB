@@ -2006,7 +2006,7 @@
 		Title = "MxR HUB",
 		SubTitle = "BY @fcuxer",
 		TabWidth = 160,
-		Theme = "Ocean",
+		Theme = "Rose",
 		Acrylic = true,
 		Size = UDim2.fromOffset(450, 300),
 		MinimizeKey = Enum.KeyCode.End
@@ -2109,7 +2109,7 @@
 			Title = "شوب"
 		}),
 		Misc = Window:AddTab({
-			Title = "مادري"
+			Title = "الاعدادات"
 		})
 	}
 
@@ -11207,4 +11207,5 @@ end)
 		end)
 	end)
 	Window:SelectTab(1)
+
 
